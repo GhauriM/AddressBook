@@ -1,2 +1,2 @@
 # AddressBook
-JAVA project demonstrating Aspect Oriented Programming using AspectJ
+Project demonstrating Aspect Oriented Programming using AspectJ
